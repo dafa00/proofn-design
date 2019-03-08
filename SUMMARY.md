@@ -10,6 +10,6 @@
 * [Forms](forms.md)
 * [Buttons](untitled-1.md)
 * [Shape](shape.md)
+* [Pop Ups & Bottomsheet](untitled-2.md)
 * [Dropdown](tabs.md)
-* [Pop Ups](untitled-2.md)
 
