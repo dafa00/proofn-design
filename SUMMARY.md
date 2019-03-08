@@ -8,7 +8,7 @@
 * [Iconography](iconography.md)
 * [Forms](forms.md)
 * [Buttons](untitled-1.md)
+* [Shape](shape.md)
 * [Dropdown](tabs.md)
 * [Pop Ups](untitled-2.md)
-* [Shape](shape.md)
 
