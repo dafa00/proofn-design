@@ -7,7 +7,7 @@
 * [Typography](typography.md)
 * [Iconography](iconography.md)
 * [Buttons](untitled-1.md)
-* [Pop Ups](untitled-2.md)
 * [Forms](forms.md)
+* [Pop Ups](untitled-2.md)
 * [Dropdown](tabs.md)
 
