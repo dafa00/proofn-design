@@ -1,6 +1,6 @@
 # Overview
 
-![](.gitbook/assets/assets-2f-lcsjtos5xqtkz79d5fl-2f-lcskcdlaemen5rw9s-n-2f-lcslniqmx1cygq29pkl-2filustrasi_proofn.jpg)
+![](.gitbook/assets/avatar.png)
 
 [Proofn](https://proofn.id/) is a communication platform using email based that use behavior like a chat application. People will see organized message by subject like email but they can communcate easily like chat. They can create a group and communicate with many people.
 
