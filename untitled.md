@@ -1,6 +1,6 @@
 # Colors
 
-### Primary Color Pallete {#primary-color-pallete}
+### Primary Color Pallete <a id="primary-color-pallete"></a>
 
 Our primary palette is comprised of neutrals, white, orange & navy. These colors are present across most touch points from marketing to product. If you're keen to use the color palette you can download the palette here
 
@@ -10,7 +10,7 @@ Our primary palette is comprised of neutrals, white, orange & navy. These colors
 | :--- | :--- | :--- |
 
 
-### Secondary Color Pallete {#secondary-color-pallete}
+### Secondary Color Pallete <a id="secondary-color-pallete"></a>
 
 Our secondary palette is made up of red, yellow, green, teal, and purple. Each color is selected with purpose in order to provide meaningful feedback within our products. See the Color System below for more information.
 
