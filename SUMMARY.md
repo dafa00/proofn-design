@@ -6,8 +6,8 @@
 * [Grid](grid.md)
 * [Typography](typography.md)
 * [Iconography](iconography.md)
-* [Buttons](untitled-1.md)
 * [Forms](forms.md)
+* [Buttons](untitled-1.md)
 * [Dropdown](tabs.md)
 * [Pop Ups](untitled-2.md)
 
