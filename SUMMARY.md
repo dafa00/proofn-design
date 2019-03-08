@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Logos](logos.md)
+* [Brand Voice](brand-voice.md)
 * [Colors](untitled.md)
 * [Grid](grid.md)
 * [Typography](typography.md)
