@@ -1,6 +1,6 @@
 # Overview
 
-![](.gitbook/assets/avatar.png)
+![](.gitbook/assets/avatar%20%281%29.png)
 
 [Proofn](https://proofn.id/) is a communication platform using email based that use behavior like a chat application. People will see organized message by subject like email but they can communcate easily like chat. They can create a group and communicate with many people.
 
