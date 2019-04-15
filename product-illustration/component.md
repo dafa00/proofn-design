@@ -1,6 +1,6 @@
 # Latest Component \(v.1.2\)
 
-### **Login & Register**
+### **Login & Register \(Mobile\)**
 
 ![](../.gitbook/assets/login-and-register.png)
 
