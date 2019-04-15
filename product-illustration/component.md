@@ -1,4 +1,4 @@
-# Latest Component
+# Latest Component \(v.1.2\)
 
 ### **Login & Register**
 

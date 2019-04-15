@@ -6,7 +6,7 @@
 * [Product Illustration](product-illustration/README.md)
   * [Guideline](product-illustration/guideline.md)
   * [Illustration Type](product-illustration/illustration-type.md)
-  * [Latest Component](product-illustration/component.md)
+  * [Latest Component \(v.1.2\)](product-illustration/component.md)
   * [Make Request](product-illustration/make-request.md)
 * [Colors](untitled.md)
 * [Grid](grid.md)
