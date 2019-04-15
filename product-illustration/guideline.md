@@ -22,7 +22,7 @@ Background berfungsi memberikan ruang dan aksen terhadap setiap assets illustras
 
 ## **Stroke**
 
-Kami tidak menggunakan dropshadow untuk illustrasi sebagai gantinya kami menggunakan dropshadow sebagai pemisah antar warna
+Kami tidak menggunakan stroke untuk illustrasi sebagai gantinya kami menggunakan dropshadow sebagai pemisah antar warna
 
 ![](../.gitbook/assets/stroke.png)
 
