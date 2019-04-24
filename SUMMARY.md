@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [Logos](logos.md)
-* [Brand Voice](brand-voice.md)
+* [Tone & Voice](brand-voice.md)
 * [Product Illustration](product-illustration/README.md)
   * [Guideline](product-illustration/guideline.md)
   * [Moodboard](product-illustration/moodboard.md)
