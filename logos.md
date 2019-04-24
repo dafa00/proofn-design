@@ -9,24 +9,21 @@ Proofn logo consists of two components logogram and logotype. The application of
 ### Primary Logo
 
 Please use our one-color logo most of the time. Keep our glyph and the wordmark in white, black and orange \(proofn\) color.   
-  
-[Download Primary Logo](https://dribbble.com/shots)
+
 
 ![](.gitbook/assets/primary-logo.png)
 
 ### Secondary Logo
 
 Please use our one-color logo most of the time. Keep our glyph and the wordmark in white, black and orange \(proofn\) color.  
-  
-[Download Secondary Logo](https://dribbble.com/shots)
+
 
 ![](.gitbook/assets/secondary-logo.png)
 
 ### Logogram Only
 
 Please use our one-color logo most of the time. Keep our glyph in white, black and orange \(proofn\) color.  
-  
-[Download Logogram Only](https://dribbble.com/shots)
+
 
 ![](.gitbook/assets/logogram-only.png)
 
