@@ -5,6 +5,7 @@
 * [Brand Voice](brand-voice.md)
 * [Product Illustration](product-illustration/README.md)
   * [Guideline](product-illustration/guideline.md)
+  * [Moodboard](product-illustration/moodboard.md)
   * [Illustration Type](product-illustration/illustration-type.md)
   * [Latest Component \(v.1.2\)](product-illustration/component.md)
   * [Make Request](product-illustration/make-request.md)
